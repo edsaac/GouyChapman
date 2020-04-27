@@ -1,6 +1,0 @@
-name: Gouy-Chapman
-
-dependencies:
-  - numpy
-  - matplotlib
-  - ipywidgets
