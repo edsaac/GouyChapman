@@ -1,12 +1,6 @@
-name: example-environment
-channels:
-  - conda-forge
+name: Gouy-Chapman
+
 dependencies:
   - numpy
   - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
   - ipywidgets
