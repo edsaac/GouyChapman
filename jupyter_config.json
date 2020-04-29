@@ -1,7 +1,5 @@
 {
     "VoilaConfiguration": {
-        "enable_nbextensions": true,
-        "template": "vuetify-default",
         "strip_sources": false
     }
 }
