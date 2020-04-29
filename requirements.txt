@@ -2,3 +2,6 @@ numpy
 matplotlib
 ipywidgets
 pandas
+voila
+ipyvuetify
+voila-vuetify
